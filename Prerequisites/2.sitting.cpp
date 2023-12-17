@@ -2,8 +2,8 @@
 using namespace std;
 
 int main(){
-    // freopen("sitin.txt", "r",stdin);
-    // freopen("sitout.txt","w",stdout);
+    freopen("sitin.txt", "r",stdin);
+    freopen("sitout.txt","w",stdout);
 
     int r,s;
     cin >> r >>s;
