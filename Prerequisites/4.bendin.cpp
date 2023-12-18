@@ -2,8 +2,8 @@
 using namespace std;
 
 int main(){
-    // freopen("bendin.txt", "r",stdin);
-    // freopen("bendout.txt","w",stdout);
+    freopen("bendin.txt", "r",stdin);
+    freopen("bendout.txt","w",stdout);
 
     int x1,y1,x2,y2;
     cin>>x1>>y1>>x2>>y2;  
