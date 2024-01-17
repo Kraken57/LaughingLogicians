@@ -6,7 +6,7 @@ int main() {
     cin >> w;
     if (w % 2 == 0) {
         if (w <= 2) {
-            cout << "NOY" << endl;
+            cout << "NO" << endl;
         } else {
             cout << "YES" << endl;
         }
